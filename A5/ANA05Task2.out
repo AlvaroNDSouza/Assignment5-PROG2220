@@ -1,0 +1,52 @@
+Alvaro, de Souza
+
+Student Number : 8880494
+
+PROG2220: Section #6
+
+Assignment #5:
+
+Current System Date
+2023-11-21 10:52:43
+*** Task 2, Q1. ***
+
+average_evaluation_score
+88.33
+*** Task 2, Q2. ***
+
+project_id	consultant_id	months
+         1	          101	         6
+         1	          103	         4
+         1	          104	        11
+         1	          105	        11
+         2	          100	         2
+         2	          105	         2
+         3	          103	         5
+         3	          104	         2
+         4	          102	         5
+         4	          104	         6
+         4	          105	        12
+         5	          103	         5
+         5	          105	         5
+         6	          103	         5
+         6	          104	         5
+         7	          100	         6
+         7	          102	         7
+*** Task 2, Q3. ***
+
+c_id	consultant_full_name	skill_id	certification_status
+100	         Myers, Mark	1	Certified
+100	         Myers, Mark	3	Not Certified
+100	         Myers, Mark	6	Certified
+101	   Hernandez, Sheila	4	Not Certified
+101	   Hernandez, Sheila	5	Not Certified
+102	        Zhang, Brian	7	Certified
+103	      Carlson, Sarah	1	Certified
+103	      Carlson, Sarah	6	Certified
+103	      Carlson, Sarah	8	Certified
+103	      Carlson, Sarah	9	Certified
+104	    Courtlandt, Paul	8	Not Certified
+104	    Courtlandt, Paul	9	Certified
+105	         Park, Janet	2	Not Certified
+105	         Park, Janet	3	Not Certified
+105	         Park, Janet	4	Certified
